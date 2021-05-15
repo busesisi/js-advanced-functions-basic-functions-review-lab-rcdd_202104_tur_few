@@ -36,25 +36,4 @@ let actionApplyer = function(start, ray) {
 
   return a
 }
-/*
-let  actionApplyer = function (startInt, arr) {
-  let res = startInt
 
-  for (let i = 0; i<arr.length; i++) {
-    res = arr[i](res)
-  }
-  return res
-}
-
-*/
-/*
-let actionApplyer = function(start, ray) {
-  let a = start
-
-  for (let i = 0; i < ray.length; i++ ){
-    a = ray[i](a)
-  }
-
-  return a
-}
-*/
