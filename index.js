@@ -36,4 +36,3 @@ let actionApplyer = function(start, ray) {
 
   return a
 }
-
