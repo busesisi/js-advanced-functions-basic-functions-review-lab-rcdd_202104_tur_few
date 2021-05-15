@@ -36,7 +36,7 @@ let  actionApplyer = function (startInt, arr) {
   return res
 }
 
-
+*/
 /*
 let actionApplyer = function(start, ray) {
   let a = start
